@@ -1,4 +1,4 @@
-# brst-machinelearning
+# Breact Cancer Classificiation App
 
 This is a **breast cancer classification app** I made as a first machine learning project. It gave me a better understanding of Pandas and how to import, transform, normalize and use large datasets. 
 Other than that, I learned the basics of many machine learning algorithms and how to use libraries incorporating them in Python. 
